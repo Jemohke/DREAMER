@@ -21,13 +21,13 @@ Our AI features use random APIs to run, so sometimes they may be down.
 
 <h2 align="center">   
 
-- Fork this repo by tapping  [here](https://github.com/Fortunatusmokaya/dreaded-md/fork)
+- Fork this repo by tapping  [here](https://github.com/Jemohke/DREAMER/fork)
 
 
 ## Pairing:
 
 
-- ***`Get your Session Id` by  [`PAIRING CODE`](https://dreaded-pair-862e5480d53e.herokuapp.com/pair).***
+- ***`Get your Session Id` by  [`PAIRING CODE`](https://dreaded-pair.onrender.com/pair).***
 
 - Then `Go-to WhatsApp > Three dots > Linked Devices`
    - You will get a session ID in your WhatsApp. Copy it.
